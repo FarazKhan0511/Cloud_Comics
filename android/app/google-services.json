@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "685745531265",
+    "project_id": "cloudcomic-29bef",
+    "storage_bucket": "cloudcomic-29bef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685745531265:android:1cf3f9630531f2f207a080",
+        "android_client_info": {
+          "package_name": "com.anam.cloud_comics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685745531265-i25pvi9mgl3a7d214t3i2gfl2euv5jtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBbzDeVH4ws-yTVyhLnYK-zB0s_wrDR0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685745531265-i25pvi9mgl3a7d214t3i2gfl2euv5jtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685745531265:android:f023eee1775f3d5907a080",
+        "android_client_info": {
+          "package_name": "com.ckoudcomic.anam.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685745531265-i25pvi9mgl3a7d214t3i2gfl2euv5jtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBbzDeVH4ws-yTVyhLnYK-zB0s_wrDR0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685745531265-i25pvi9mgl3a7d214t3i2gfl2euv5jtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
