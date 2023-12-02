@@ -4,9 +4,6 @@
 
 Welcome to the Cloud Comics App, a revolutionary mobile application developed using Flutter and Dart, seamlessly integrated with Firebase Storage and Authentication. This app redefines the comic-reading experience by leveraging the power of cloud services. Dive into an immersive world of comics with key features such as user authentication, comic collection management, uploading and storing comics, offline support, security, performance, cross-platform compatibility, and an exceptional user interface.
 
-## Tech Stack
-
-**Tech :** Flutter, Dart, Firebase Storage, Android Studio
 
 ## Key Features
 1. **Sign In with Google:**
@@ -35,6 +32,12 @@ Welcome to the Cloud Comics App, a revolutionary mobile application developed us
 
 9. **User Experience and Interface Design:**
    - Focus on creating an exceptional user experience with an engaging interface design, promoting ease of use and enjoyment.
+  
+## Tech Stack
+
+**Tech :** Flutter, Dart, Firebase Storage, Android Studio
+
+
 ## Installation Steps
 1. **Install Android Studio with Flutter and Dart:**
    - Download and install Android Studio from [developer.android.com/studio](https://developer.android.com/studio).
